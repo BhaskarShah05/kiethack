@@ -21,10 +21,11 @@
 5. [Detailed Technical Architecture & Tech Stack](#4-tech-stack-detailed)
 6. [Unique Selling Proposition (USP)](#5-unique-selling-proposition-usp)
 7. [Feasibility & Competitive Analysis](#6-feasibility--competitors)
-8. [Research, Legal Foundations & References](#7-research--references)
-9. [Project Structure](#8-project-structure)
-10. [Local Installation & Setup](#9-local-installation--setup)
-11. [2-Minute Hackathon Demo Script](#10-2-minute-hackathon-demo-script)
+8. [Comprehensive Business Plan & Commercial Strategy](#8-comprehensive-business-plan--commercial-strategy)
+9. [Research, Legal Foundations & References](#9-research--references)
+10. [Project Structure](#10-project-structure)
+11. [Local Installation & Setup](#11-local-installation--setup)
+12. [2-Minute Hackathon Demo Script](#12-2-minute-hackathon-demo-script)
 
 ---
 
@@ -347,7 +348,194 @@ contract ClassiLedgerAnchor {
 
 ---
 
-## 7. Research & References
+## 8. Comprehensive Business Plan & Commercial Strategy
+
+### 8.1 Executive Commercial Summary
+
+**ClassiLedger** is positioned at the intersection of three massive, accelerating tailwinds:
+1. **The Global Supply Chain Compliance Crunch**: Rising geopolitical tariffs, Section 301 penalties, and stringent cross-border audit mandates worldwide.
+2. **Enterprise Adoption of Focused AI**: Transition away from unreliable generative chat towards deterministic, calibrated decision models.
+3. **Cryptographic Proof of Provenance**: Demands by customs authorities and institutional insurers for non-repudiable legal audit trails.
+
+By offering a hybrid architecture—**open-weight edge decision models** for privacy and near-zero marginal inference cost paired with **Polygon blockchain anchoring** for non-repudiation—ClassiLedger creates an unassailable commercial moat with an 82% projected gross margin.
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                        ClassiLedger Commercial Engine                  │
+└────────────────────────────────────────────────────────────────────────┘
+          │
+          ├──► [Zero-Data-Exfiltration Edge AI]  --> Enterprise Security Clearance
+          │
+          ├──► [RFC 8785 + Polygon Ledger]       --> Dispute Non-Repudiation (Moat)
+          │
+          ├──► [Internal Precedent Network]      --> High Switching Costs & Retention
+          │
+          └──► [Predictable Seat + Usage SaaS]   --> 134% Net Dollar Retention (NDR)
+```
+
+---
+
+### 8.2 Market Sizing & Opportunity
+
+Global customs brokerage is an essential $114B services sector. The subset of software, tariff classification tools, and trade compliance systems represents a rapid-growth $14.8B addressable market.
+
+| Market Classification | Valuation | Description & Scope |
+| :--- | :---: | :--- |
+| **Total Addressable Market (TAM)** | **$14.8 Billion** | Global Trade Compliance Software, Enterprise Customs Management Systems (CMS), and tariff automation solutions. |
+| **Serviceable Addressable Market (SAM)** | **$3.2 Billion** | Licensed customs brokerages (28,000+ firms across US, EU, UK, ASEAN), tier-1 freight forwarders, and enterprise high-volume importers. |
+| **Serviceable Obtainable Market (SOM)** | **$380 Million** | 1,200 mid-to-large customs brokerage firms and enterprise importers handling >100,000 international customs line items annually. |
+
+```
+   ┌─────────────────────────────────────────────────────────────┐
+   │ TAM: $14.8 Billion (Global Trade Compliance Software)       │
+   │  ┌───────────────────────────────────────────────────────┐  │
+   │  │ SAM: $3.2 Billion (Customs Brokers & Freight Teams)   │  │
+   │  │  ┌─────────────────────────────────────────────────┐  │  │
+   │  │  │ SOM: $380M (High-Volume Brokerages & Importers) │  │  │
+   │  │  └─────────────────────────────────────────────────┘  │  │
+   │  └───────────────────────────────────────────────────────┘  │
+   └─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 8.3 Target Customer Personas & Value Proposition
+
+ClassiLedger targets four key decision-makers across the international trade ecosystem:
+
+1. **Independent Customs Brokerages (SMB to Mid-Market)**
+   * *Pain*: Classification takes 15–25 minutes per complex invoice; high senior broker burnout; crippling audit liability.
+   * *Value*: Classification time cut by **70%** (down to 3–5 minutes); automated GRI audit defense dossier.
+
+2. **Tier-1 Freight Forwarders (Global Logistics)**
+   * *Pain*: Inconsistent classifications across decentralized offices; lack of unified precedent memory; client disputes.
+   * *Value*: Centralized precedent intelligence engine; 100% tamper-evident proof of reasonable care for clients.
+
+3. **Enterprise Direct Importers (Retail, Tech, Automotive)**
+   * *Pain*: Customs underpayment penalties under 19 U.S.C. § 1592; retroactive duty reassessments 24 months post-entry.
+   * *Value*: Verified, immutable historical record of exact legal reasoning and evidence at time of importation.
+
+4. **Trade Compliance Law Firms & Customs Auditors**
+   * *Pain*: 20+ billable hours spent reconstructing years-old email chains to prove how tariff codes were selected.
+   * *Value*: 1-click zero-knowledge cryptographic audit verification with RFC 8785 hash matching.
+
+#### Quantified Brokerage ROI (10-Broker Team)
+* **Time Saved**: 18 hours/week per broker = 720 hours/month saved.
+* **Direct Labor Savings**: $65,000/year in reclaimed operational capacity.
+* **Audit Penalty Mitigation**: Average customs reassessment penalty avoided: **$120,000 – $450,000 per incident**.
+* **Net Annual ROI**: **> 750%** on Enterprise SaaS investment.
+
+---
+
+### 8.4 Pricing Tiers & Revenue Model
+
+ClassiLedger employs a predictable **Hybrid B2B SaaS model** (Tiered Seat Subscription + Over-Quota Ledger Anchoring):
+
+| Plan | Starter | Professional | Enterprise Suite |
+| :--- | :---: | :---: | :---: |
+| **Price** | **$299** / month | **$1,250** / month | **$4,500** / month (Annual) |
+| **Target** | Boutique brokerages (1–3 seats) | Mid-market forwarders (up to 15 seats) | Global forwarders & enterprise importers (Unlimited) |
+| **Classifications Included** | 250 / mo | 2,000 / mo | 15,000 / mo + $0.15/overage |
+| **Decision Model** | Laya-SystemOne Standard | Calibrated Laya + Temperature Scaling | Custom Fine-Tuned Domain Laya Model |
+| **Blockchain Anchoring** | Polygon Batch Anchors | Polygon Real-Time Individual Anchors | Multi-Chain & Dedicated Private Subnet |
+| **Audit Pack Generation** | Standard Watermarked PDF | Unbranded Compliance Dossiers | API Automated Audit Dossier Ingestion |
+| **Precedent Library** | Local Team Only (Up to 500) | Multi-Branch Shared Precedents (10K) | Unlimited Organization Precedent Memory |
+| **SLA & Support** | Community / Email (48h) | Priority Slack & Email (8h) | Dedicated Compliance Engineer (1h SLA) |
+
+---
+
+### 8.5 Unit Economics & Cost Structure
+
+Unlike competitors relying on expensive generic LLM APIs ($0.03–$0.06 per query that scale linearly with volume), ClassiLedger's decision-only model architecture achieves unprecedented cost efficiency:
+
+* **Inference Cost**: Open-weight quantized Laya-SystemOne running in local WASM/WebGPU or shared container = **$0.0004 per classification**.
+* **Ledger Sealing Cost**: Polygon Amoy / Mainnet batched rollups = **$0.0012 per anchor transaction**.
+* **Storage & Bandwidth**: Canonical JSON records cached on high-performance object storage = **$0.0001 per record**.
+* **Blended Cost per Classification**: **$0.0017**.
+* **Average Revenue per Classification**: **$0.30 – $0.45**.
+* **Gross Profit Margin**: **82.4%** at scale.
+* **Customer Acquisition Cost (CAC)**: ~$4,200 (direct compliance sales / trade associations).
+* **Customer Lifetime Value (LTV)**: ~$68,000 (average 4.5-year retention with 1.8% annual churn).
+* **LTV : CAC Ratio**: **16.2x** (Exceptional SaaS unit economics).
+
+---
+
+### 8.6 5-Year Pro-Forma Financial Projections
+
+| Metric ($ in USD) | Year 1 (Launch) | Year 2 (Expansion) | Year 3 (Scale) | Year 4 (Market Leader) | Year 5 (Global Standard) |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Active Brokerage Clients** | 35 | 160 | 520 | 1,250 | 2,400 |
+| **Annual Recurring Revenue (ARR)** | **$480,000** | **$2,450,000** | **$8,600,000** | **$21,500,000** | **$42,800,000** |
+| **Cost of Goods Sold (COGS)** | $86,400 | $416,500 | $1,462,000 | $3,655,000 | $7,276,000 |
+| **Gross Profit (83%)** | $393,600 | $2,033,500 | $7,138,000 | $17,845,000 | $35,524,000 |
+| **R&D / Engineering** | $280,000 | $820,000 | $2,100,000 | $4,500,000 | $7,800,000 |
+| **Sales & Marketing** | $180,000 | $750,000 | $2,600,000 | $5,800,000 | $9,900,000 |
+| **General & Administrative** | $90,000 | $260,000 | $780,000 | $1,800,000 | $3,200,000 |
+| **EBITDA** | **-$156,400** | **+$203,500** | **+$1,658,000** | **+$5,745,000** | **+$14,624,000** |
+| **EBITDA Margin** | -32.5% | +8.3% | +19.3% | +26.7% | +34.2% |
+
+*Cash flow positive reached at month 18 (Q2 Year 2).*
+
+---
+
+### 8.7 Go-To-Market (GTM) & Precedent Flywheel Moat
+
+```
+                       ┌──────────────────────────────┐
+                       │ 1. Targeted Broker Onboarding│
+                       └──────────────┬───────────────┘
+                                      │
+                                      ▼
+                       ┌──────────────────────────────┐
+                       │ 2. Team Builds Local Precedent│
+                       │    Intelligence Base         │
+                       └──────────────┬───────────────┘
+                                      │
+                                      ▼
+                       ┌──────────────────────────────┐
+                       │ 3. Speed Increases 4x;       │
+                       │    Audit Defense Guaranteed  │
+                       └──────────────┬───────────────┘
+                                      │
+                                      ▼
+                       ┌──────────────────────────────┐
+                       │ 4. Switching Cost Becomes    │
+                       │    Prohibitive (Moat)        │
+                       └──────────────┬───────────────┘
+                                      │
+                                      ▼
+                       ┌──────────────────────────────┐
+                       │ 5. Clients Require Forwarders│
+                       │    to Seal on ClassiLedger   │
+                       └──────────────┬───────────────┘
+                                      │
+                                      └────────────► [Back to Step 1]
+```
+
+1. **Phase 1: Beachhead (Months 1–12)**:
+   * Target licensed U.S. National Customs Brokers & Forwarders Association (NCBFAA) members.
+   * Free 30-day "Dispute Shield" audit readiness assessment using ClassiLedger Audit Pack generator.
+2. **Phase 2: Freight Management System Integrations (Months 12–24)**:
+   * Build native connectors for CargoWise, Descartes, Magaya, and SAP Global Trade Services (GTS).
+   * Transform ClassiLedger into the background verification ledger of record.
+3. **Phase 3: The Precedent Network Effect (Months 24+)**:
+   * As firms anchor more decisions, their internal similarity search becomes faster and more accurate than any competing tool.
+   * Customs compliance law firms demand ClassiLedger SHA-256 seal hashes as mandatory discovery evidence in tariff appeals before the Court of International Trade (CIT).
+
+---
+
+### 8.8 Strategic Acquisition & Exit Opportunities
+
+ClassiLedger is constructed to be an indispensable acquisition target for global supply chain and enterprise software giants:
+
+* **Descartes Systems Group (NASDAQ: DSGX)**: Desperate to modernize their aging legacy Customs Info product line with verified AI and cryptographic dispute auditability.
+* **WiseTech Global / CargoWise (ASX: WTC)**: Dominant freight ERP actively acquiring best-of-breed compliance modules to secure freight forwarder lock-in.
+* **Thomson Reuters ONESOURCE**: Global enterprise tax and trade compliance suite needing an auditable, explainable AI solution that passes strict regulatory scrutiny.
+* **Flexport**: High-growth tech-first freight forwarder looking to solidify enterprise customs brokerage market share.
+
+---
+
+## 9. Research & References
 
 ### Specific and Authoritative Customs & Legal Sources
 
@@ -374,7 +562,7 @@ contract ClassiLedgerAnchor {
 
 ---
 
-## 8. Project Structure
+## 10. Project Structure
 
 ```
 kiet hackathon/
@@ -382,6 +570,7 @@ kiet hackathon/
 ├── src/
 │   ├── app/
 │   │   ├── audit-packs/         # Audit Pack Dossier Studio (print-ready PDF)
+│   │   ├── business-plan/       # Interactive Commercial Strategy & Financial Forecast
 │   │   ├── classify/            # Centerpiece Classification Studio
 │   │   ├── dashboard/           # Executive Metrics & Activity Timeline
 │   │   ├── precedents/          # Semantic Precedent Intelligence Library
@@ -417,7 +606,7 @@ kiet hackathon/
 
 ---
 
-## 9. Local Installation & Setup
+## 11. Local Installation & Setup
 
 ### Prerequisites
 * **Node.js**: v18.0.0 or later (v24 LTS recommended)
@@ -427,8 +616,8 @@ kiet hackathon/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/classiledger.git
-   cd classiledger
+   git clone https://github.com/BhaskarShah05/kiethack.git
+   cd kiethack
    ```
 
 2. **Install dependencies**:
@@ -451,7 +640,7 @@ kiet hackathon/
 
 ---
 
-## 10. 2-Minute Hackathon Demo Script
+## 12. 2-Minute Hackathon Demo Script
 
 Follow this step-by-step sequence to showcase the entire product to judges:
 

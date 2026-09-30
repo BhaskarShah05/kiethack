@@ -18,7 +18,8 @@ import {
   RotateCcw,
   Menu,
   X,
-  Layers
+  Layers,
+  Briefcase
 } from 'lucide-react';
 import { truncateHash } from '@/lib/crypto';
 
@@ -38,6 +39,7 @@ export function Sidebar({ mobileOpen = false, onMobileClose }: SidebarProps) {
     { label: 'Precedents', href: '/precedents', icon: BookmarkCheck },
     { label: 'Audit Packs', href: '/audit-packs', icon: FileCheck2 },
     { label: 'Verification', href: '/verify', icon: ShieldCheck },
+    { label: 'Business Plan', href: '/business-plan', icon: Briefcase },
     { label: 'Settings', href: '/settings', icon: Settings },
   ];
 
